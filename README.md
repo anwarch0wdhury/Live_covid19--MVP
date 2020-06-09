@@ -13,5 +13,6 @@ Used Picasso library to load the photos of the flag.
 Used Pi chart graph to displaying data.
 Converted Last_updated data Unix Timestamp to human-readable date-time.
 Checked network connection on run time.
+(Api of this app is used only for practice)
 ### Screenshot
 <img src="https://raw.githubusercontent.com/anwarch0wdhury/Live_covid19--MVP/master/Screenshot/screenshot_1.png" width="250" height="444" />
