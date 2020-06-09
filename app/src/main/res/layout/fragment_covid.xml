@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".covidlist.view.CovidHomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/blue">
+
+        <!-- search text -->
+        <EditText
+            android:id="@+id/tv_main_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded"
+            android:clickable="true"
+            android:hint="Search Here"
+            android:padding="10dp"
+            android:textColor="@color/nevyblue"
+            android:textColorHint="@color/cardview_shadow_start_color"
+            android:textSize="16sp"
+            android:textCursorDrawable="@color/skyblue"
+            android:layout_weight="1">
+        </EditText>
+        <ImageView
+            android:id="@+id/iv_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_search_black_24dp"
+            android:layout_weight="5"
+            android:focusable="true"
+            android:clickable="true"/>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rv_list"
+        >
+
+    </androidx.recyclerview.widget.RecyclerView>
+        <ProgressBar
+            android:id="@+id/prgs_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>

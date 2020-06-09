@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="covid_info">What are the symptom of the coronavirus disease? \n \n COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.\n Most common symptoms: \n• fever \n• dry cough \n• tiredness \n Less common symptoms: \n• aches and pains \n• sore throat \n• diarrhoea \n• conjunctivitis \n• headache\n• loss of taste or smell \n• a rash on skin, or discolouration of fingers or toes \n Serious symptoms: \n• difficulty breathing or shortness of breath \n• chest pain or pressure \n• loss of speech or movement \n \n Seek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility.</string>
+    <string name="covid_treatments">What are the treatments of the coronavirus disease? \n \n Self care \n If you feel sick you should rest, drink plenty of fluid, and eat nutritious food. Stay in a separate room from other family members, and use a dedicated bathroom if possible. Clean and disinfect frequently touched surfaces.\nEveryone should keep a healthy lifestyle at home. Maintain a healthy diet, sleep, stay active, and make social contact with loved ones through the phone or internet. Children need extra love and attention from adults during difficult times. Keep to regular routines and schedules as much as possible.\n It is normal to feel sad, stressed, or confused during a crisis. Talking to people you trust, such as friends and family, can help. If you feel overwhelmed, talk to a health worker or counsellor.</string>
+    <string name="s_checkque1">Have you been at risk of exposure to COVID-19 by experiencing any of the following?\n• Traveled to an area of high-risk for COVID-19 \n• Been around someone who recently traveled to an area of high-risk and is also sick \n• Been around someone who is known to have COVID-19 \n• Been told by a health official that you may have been exposed to the virus</string>
+    <string name="s_checkque2">Have you had a fever recently?</string>
+    <string name="s_checkque3">Do you have a cough?</string>
+    <string name="s_checkque4">Do you have any of these?\n• Fatigue\n• Body aches</string>
+    <string name="s_checkque5">Do you have a sore throat?</string>
+    <string name="s_checkque6">Do you have a reduced sense of smell or taste?</string>
+    <string name="s_checkque7">Are you experiencing diarrhea?</string>
+    <string name="s_checkque8">Are you feeling mild to moderate shortness of breath or mild to moderate difficulty breathing?</string>
+    <string name="s_checkque9">Are you experiencing symptoms that feel like a life-threatening medical emergency? \nFor example:\n• Severe shortness of breath and difficulty breathing\n• Crushing chest pain\n• Loss of consciousness\n• Slurred speech\n• Gasping for air\n• Coughing up lots of blood</string>
+    <string name="s_checkque10">How old are you?</string>
+    <string name="s_checkque11">Do you have any of the following?\n• High blood pressure\n• Diabetes\n• Heart disease\n• Lung disease\n• Kidney disease\n• Liver disease\n• History of asthma\n• History of smoking\n• Obesity</string>
+    <string name="posetive_decision">This sounds like a potential medical emergency, and you should call Emergency right away.Let them know that the coronavirus is a concern along with any other serious issues. If possible, wear a facemask.\nBecause you have had possible exposure to the virus, you may have COVID-19 even if you\'re not showing symptoms. It is best if you isolate yourself at home and away from others for at least 14 days.</string>
+    <string name="negative_decision">It seems like you haven\'t been exposed to the virus and you aren\'t showing any symptoms, so your risk of having COVID-19 is low.</string>
+
+
+</resources>
